@@ -1,3 +1,7 @@
+# See Live Project
+
+This project [Live](https://portfolio-with-react-bice.vercel.app).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
